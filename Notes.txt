@@ -1,0 +1,4 @@
+composer require tymon/jwt-auth:dev-develop --prefer-source : install latest version of laravel
+php artisan jwt:secret
+php artisan vendor:publish --provider="Tymon\JWTAuth\Providers\LaravelServiceProvider"
+php artisan serve
