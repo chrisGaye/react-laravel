@@ -1,0 +1,1 @@
+npm install @material-ui/icons react-redux redux redux-thunk react-router-dom : to install all these packages, will be needed
